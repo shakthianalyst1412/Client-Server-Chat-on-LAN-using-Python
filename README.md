@@ -1,4 +1,4 @@
-# Python-Client-Server
+# Python-Client-Server CHATTING APPLICATION
 
 Software Used : Python 3.7.*
 
